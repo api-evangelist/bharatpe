@@ -1,0 +1,218 @@
+aid: bharatpe
+name: BharatPe
+description: >-
+  BharatPe is a New Delhi-based fintech company founded in 2018 by Ashneer
+  Grover and Shashvat Nakrani that provides digital payments and financial
+  services to Indian small and medium businesses. Its merchant stack centers
+  on a single interoperable UPI QR for payment acceptance across all UPI
+  apps, augmented by BharatPe Speaker for voice transaction confirmations,
+  BharatSwipe POS card machines for offline acceptance, BharatPe One
+  (all-in-one POS), bill payments, and a co-branded credit card. On the
+  financing side, BharatPe originates business loans for merchants through
+  partner NBFCs, runs the InvestBharatPe / 12% Club investment platform,
+  operates the PostPe buy-now-pay-later product, and is a co-promoter of
+  Unity Small Finance Bank. The company reports more than ten million
+  merchant partners across 450+ Indian cities and turned profitable in
+  FY24 with roughly INR 1,700 crore in revenue. BharatPe is owned by
+  Resilient Innovations Private Limited; it does not publish a public
+  developer API, SDK, sandbox, or OpenAPI surface — its merchant and
+  consumer products are delivered through native Android/iOS apps and an
+  enterprise sales channel for partners.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Payments
+  - UPI
+  - QR Payments
+  - Merchant Payments
+  - Point Of Sale
+  - SMB
+  - Fintech
+  - Lending
+  - Buy Now Pay Later
+  - Credit Card
+  - Investments
+  - Small Finance Bank
+  - India
+url: https://raw.githubusercontent.com/api-evangelist/bharatpe/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://bharatpe.com
+  - type: About
+    url: https://bharatpe.com/about/
+  - type: BharatPeQR
+    url: https://bharatpe.com/bharatpe-qr/
+  - type: BharatPeUPI
+    url: https://bharatpe.com/bharatpe-upi/
+  - type: BharatPeSpeaker
+    url: https://bharatpe.com/bharatpe-speaker/
+  - type: BharatSwipe
+    url: https://bharatpe.com/bharatswipe/
+  - type: BharatPeOne
+    url: https://bharatpe.com/bharatpe-one/
+  - type: BharatPeBillPayments
+    url: https://bharatpe.com/bharatpe-bill-payments/
+  - type: BharatPeCommerce
+    url: https://bharatpe.com/bharatpe-commerce/
+  - type: CoBrandedCreditCard
+    url: https://bharatpe.com/co-branded-credit-card/
+  - type: PostPe
+    url: https://bharatpe.com/pay-later-with-bharatpe/
+  - type: PersonalLoan
+    url: https://bharatpe.com/personal-loan/
+  - type: InvestBharatPe
+    url: https://bharatpe.com/investbharatpe/
+  - type: InvestmentPlatform
+    url: https://bharatpe.com/investment-platform/
+  - type: LendingPartners
+    url: https://bharatpe.com/our-lending-partners/
+  - type: Enterprise
+    url: https://enterprise.bharatpe.in/
+  - type: Engineering
+    url: https://tech.bharatpe.com/
+  - type: Blog
+    url: https://bharatpe.com/blogs/
+  - type: Press
+    url: https://bharatpe.com/press/
+  - type: Events
+    url: https://bharatpe.com/events/
+  - type: CorporateGovernance
+    url: https://bharatpe.com/corporate-governance/
+  - type: Careers
+    url: https://bharatpe.com/career/
+  - type: Contact
+    url: https://bharatpe.com/contact/
+  - type: TermsOfService
+    url: https://bharatpe.com/terms-and-conditions-list/
+  - type: PrivacyPolicy
+    url: https://bharatpe.com/privacy-policy/
+  - type: ConsumerPrivacyPolicy
+    url: https://bharatpe.com/consumer-platform-privacy-policy/
+  - type: GrievanceRedressal
+    url: https://bharatpe.com/grievance-redressal-policy/
+  - type: ConsumerGrievanceRedressal
+    url: https://bharatpe.com/consumer-grievance-redressal/
+  - type: AndroidApp
+    url: https://bharatpe.onelink.me/vDNZ/f1gaaf0l
+  - type: PostPeApp
+    url: https://postpe.onelink.me/CHvc/n8j7ogsj
+  - type: UnitySmallFinanceBank
+    url: https://theunitybank.com
+  - type: GitHubOrganization
+    url: https://github.com/bharatpe
+  - type: Twitter
+    url: https://twitter.com/bharatpeindia
+  - type: Facebook
+    url: https://www.facebook.com/BharatPeIndia/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/bharatpe/
+  - type: Features
+    data:
+      - name: Single Interoperable UPI QR
+        description: >-
+          One BharatPe QR that accepts payments from every UPI-enabled
+          consumer app, free of MDR for merchants.
+      - name: BharatPe Speaker
+        description: >-
+          Audio device that announces UPI transaction amounts in real time
+          so merchants can confirm payment without checking the phone.
+      - name: BharatSwipe Card Acceptance
+        description: >-
+          Mobile and countertop POS devices for accepting domestic and
+          international credit and debit cards.
+      - name: BharatPe One All-in-One POS
+        description: >-
+          Integrated POS device combining UPI QR, card swipe, speaker,
+          and billing in a single Android-based device.
+      - name: Merchant Business Loans
+        description: >-
+          Collateral-free working-capital loans for merchants originated
+          through partner NBFCs, underwritten on UPI transaction data.
+      - name: PostPe Buy Now Pay Later
+        description: >-
+          Consumer BNPL credit line usable across BharatPe-accepting
+          merchants and as a co-branded Unity Bank credit card.
+      - name: InvestBharatPe / 12% Club Investments
+        description: >-
+          Consumer investment platform offering fixed-income products
+          through RBI-regulated partner NBFCs.
+      - name: Co-Branded Credit Card
+        description: >-
+          BharatPe co-branded credit card issued in partnership with
+          Unity Small Finance Bank.
+      - name: Bill Payments
+        description: >-
+          BBPS-rail utility, recharge, and bill payment flows surfaced
+          inside the BharatPe merchant app.
+  - type: UseCases
+    data:
+      - name: Kirana And Grocery Acceptance
+        description: >-
+          Neighborhood kirana stores and grocers accept UPI payments
+          from any customer app with a single QR sticker.
+      - name: Voice-Confirmed Counter Payments
+        description: >-
+          High-volume small-ticket counters confirm each UPI receipt
+          via audio without staff checking the phone screen.
+      - name: Card Acceptance For Offline Retail
+        description: >-
+          Salons, restaurants, and retail outlets accept credit and
+          debit card swipes alongside UPI through BharatSwipe.
+      - name: Working-Capital Lending For SMBs
+        description: >-
+          Small merchants borrow short-term business loans underwritten
+          on their UPI transaction history with BharatPe.
+      - name: Consumer Credit At Checkout
+        description: >-
+          Customers tap PostPe at participating BharatPe merchants to
+          split or defer payment via a Unity Bank-issued credit line.
+      - name: Retail Investments For India's Mass Market
+        description: >-
+          Indian retail consumers deploy savings into fixed-income
+          products via the InvestBharatPe / 12% Club platform.
+  - type: Integrations
+    data:
+      - name: Unity Small Finance Bank
+        description: >-
+          Resilient Innovations (BharatPe) is a co-promoter of Unity
+          Small Finance Bank, which issues the co-branded credit card
+          and powers PostPe.
+      - name: NPCI UPI
+        description: >-
+          BharatPe is a UPI third-party application provider operating
+          on the NPCI Unified Payments Interface rails.
+      - name: BBPS
+        description: >-
+          BharatPe bill payments are powered by the Bharat Bill Payment
+          System operated by NPCI.
+      - name: Partner NBFCs
+        description: >-
+          Lending products are originated through a network of
+          RBI-registered NBFC partners listed on the BharatPe site.
+      - name: Card Networks
+        description: >-
+          BharatSwipe POS devices accept Visa, Mastercard, RuPay, and
+          American Express card transactions.
+  - type: Solutions
+    data:
+      - name: BharatPe Merchant
+        description: >-
+          The merchant-facing UPI QR, speaker, swipe, POS, lending,
+          and bill payments stack delivered through the BharatPe app.
+      - name: PostPe Consumer
+        description: >-
+          The consumer-facing buy-now-pay-later and credit-card app,
+          including repayment flows powered by Unity Bank.
+      - name: BharatPe Enterprise
+        description: >-
+          A sales-led offering for large merchants, chains, and partners
+          surfaced at enterprise.bharatpe.in.
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
