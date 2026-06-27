@@ -3,16 +3,10 @@
   "feeds": [
     {
       "source": "https://bharatpe.com/blogs/",
-      "error": "HTTPError"
-    },
-    {
-      "source": "https://tech.bharatpe.com/",
-      "feed_url": "https://tech.bharatpe.com/",
-      "title": "",
       "saved": 0,
-      "method": "none"
+      "error": "HTTP 403 Forbidden"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T12:29:00Z"
 }
