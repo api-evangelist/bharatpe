@@ -1,4 +1,4 @@
-# bharatpe
+# BharatPe
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-BharatPe — India SMB UPI QR payments, BharatSwipe POS, PostPe BNPL, lending, and Unity Small Finance Bank co-promoter (no public developer API).
+BharatPe is a New Delhi-based fintech company founded in 2018 by Ashneer Grover and Shashvat Nakrani that provides digital payments and financial services to Indian small and medium businesses. Its merchant stack centers on a single interoperable UPI QR for payment acceptance across all UPI apps, augmented by BharatPe Speaker for voice transaction confirmations, BharatSwipe POS card machines for offline acceptance, BharatPe One (all-in-one POS), bill payments, and a co-branded credit card. On the financing side, BharatPe originates business loans for merchants through partner NBFCs, runs the InvestBharatPe / 12% Club investment platform, operates the PostPe buy-now-pay-later product, and is a co-promoter of Unity Small Finance Bank. The company reports more than ten million merchant partners across 450+ Indian cities and turned profitable in FY24 with roughly INR 1,700 crore in revenue. BharatPe is owned by Resilient Innovations Private Limited; it does not publish a public developer API, SDK, sandbox, or OpenAPI surface — its merchant and consumer products are delivered through native Android/iOS apps and an enterprise sales channel for partners.
+
+**Areas:** Payments · UPI · QR Payments · Merchant Payments · Point-of-Sale · Small Business · Fintech · Lending · Buy Now Pay Later · Credit Cards · Investment · Small Finance Bank
+
+## BharatPe on APIs.io
+
+Everything profiled for BharatPe is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bharatpe/](https://apis.io/providers/bharatpe/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bharatpe Domain Security](https://apis.io/security/bharatpe/bharatpe-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bharatpe.com)
+- [Blog](https://bharatpe.com/blogs/)
+- [Terms of service](https://bharatpe.com/terms-and-conditions-list/)
+- [Privacy policy](https://bharatpe.com/privacy-policy/)
+- [GitHub](https://github.com/bharatpe)
+
+## API Evangelist rating
+
+**Kin Score 3.1** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.4** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bharatpe/](https://apis.io/providers/bharatpe/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for BharatPe: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bharatpe/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
